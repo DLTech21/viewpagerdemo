@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_276785f42273130338adffccec959920d7b6fa28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_74a8ad51b98bfe8108214dde6293c7ef9d68b2e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8e9c5f1879281cf0ff9fe16e60c443c6bc585198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec606f02d10868dd5a9b69070284790e494a3b16">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0cbe464ae55421c58cec3004502510352bec05c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_c93901dfb3566001dce6f677f2e8d595442ca0b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec217e922f73797445d58916d16543a5af110d38">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/instant-run_3d0cf30ca62bf4f3933ba2a5a986c0518ba47ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_675e5342a642985d46a760ead973930ef300dd99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_01ef5c4356d09e5b7fcdd530681d041e981f58f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_1bd7dac35ff78b512cf09a4c63858cc5687196e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_389618e8bf38cf59c57aa13560dfae0b3cbda628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_72109586e64845e7a4176431dc723de2ca4a98da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_9b95508f1dc636e424c449ac2a687ded67077ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_aab376d2a2a47eefe147435aa9cd6f2655300aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f96717e0a2f42b41d8501b4c8fdadeedf2ad092c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a5f7e08c4b4c4be5ef1301c71747b3ef2c17019d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_2e58cc3a176980e273274d50ececb7d001432e5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_893e86781e8e2a71ac6c102236415bc3e789246b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3c11d140fbd5e9061b7e3a52868a44bf63a77a7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_ee4a40aa3d20eb6da8702ce3511feb79bfa827f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Donal/Documents/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_dc8b1288a943a91b1ba7318f26019744108fb4f5.jar" />
+    </item>
+
+</items>
